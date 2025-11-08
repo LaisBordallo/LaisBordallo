@@ -8,10 +8,8 @@ I've been learning code for a year, after switching careers and getting into Sup
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [laisbordallo@outlook.com](mailto:laisbordallo@outlook.com)
-* 🚀  I'm currently working on [My Portifolio](http://github.com/LaisBordallo)
-* 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  Me formando em Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi, Jul 2025.
+* ⚡  Graduada em ADS e cursando Bachelor's in Computer Science (University of People)
 
 ### Skills
 
