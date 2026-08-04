@@ -1,22 +1,63 @@
-Hi 👋 My name is Laís
-=====================
+# Laís Bordallo
 
-Angular Front End Developer
--------------------
+**Professora especialista · Desenvolvedora full stack · Fundadora · Inteligência artificial**
 
-* 🌍  I'm based in Brazil
-* ✉️  You can contact me at [laisbordallo@outlook.com](mailto:laisbordallo@outlook.com)
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  Graduada em ADS e cursando Bachelor's in Computer Science (University of People)
+Construo sistemas enterprise e SaaS multi-tenant — e ensino a mesma engenharia na prática. Fundadora da [Bordallo Tech](https://bordallotech.com.br), co-fundadora técnica do Next Social (ERP para OSCs) e professora na Universidade de Vassouras (Campus Saquarema / FUSVE).
 
-### Skills
+📍 Saquarema, RJ · Brasil (UTC−3)  
+✉️ [laisbordallo@outlook.com](mailto:laisbordallo@outlook.com) · 🌐 [bordallotech.com.br](https://bordallotech.com.br) · 💼 [LinkedIn](https://www.linkedin.com/in/laispinheiro)
 
+---
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
+## Agora
 
+| Papel | Onde |
+| --- | --- |
+| **Professora especialista** | Engenharia de Software (noturno) — *Laboratório de Programação Front-End* e *Práticas Extensionistas III* |
+| **Fundadora** | [Bordallo Tech Consult](https://bordallotech.com.br) — SaaS multi-tenant, automações e IA para PMEs |
+| **Co-fundadora técnica** | Next Social — ERP SaaS vertical para organizações da sociedade civil |
+| **Facilitadora** | Projeto Estudos em IA — aulas gratuitas aos sábados (multi-agente, RAG, segurança de agentes) |
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/LaisBordallo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/LaisBordallo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/llllllLiz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+## Stack
+
+```text
+Front     React 18/19 · Angular 14+ · TypeScript · Tailwind · Vite
+Mobile    React Native · Expo · WatermelonDB (offline-first)
+Back      NestJS · Node.js · Java / Spring Boot · Prisma · TypeORM
+Auth      JWT · OAuth 2.0 · CASL (RBAC)
+IA        Orquestração LLM · multi-agente · RAG · Anthropic · OpenAI · Gemini
+Dados     PostgreSQL (RLS) · Redis · Docker · GitHub Actions · Cloudflare R2
+```
+
+---
+
+## Trajetória (recortes)
+
+- **CI&T · Bradesco** — full stack Angular/Java em câmbio corporativo e pessoal; 100% de cobertura de testes unitários; acessibilidade ARIA (TalkBack / VoiceOver).
+- **TrendyTek (EUA)** — operação de imaging clínico (Fujifilm Synapse PACS/VNA) em ambiente HIPAA.
+- **Bordallo Tech** — plataforma interna multi-tenant (React + NestJS + Prisma), PrintFast (gestão + WhatsApp/IA) e consultoria SaaS.
+- **Next Social** — monorepo web/mobile/API com multi-tenancy, offline-first e domínio regulatório brasileiro (MROSC, LGPD, etc.).
+
+---
+
+## Formação
+
+- Pós-graduação em **Inteligência Artificial** — Faculdade Iguaçu (concluído, 2026)
+- **MBA** em Gestão de Projetos de TI — Faculdade Iguaçu (concluído, 2026)
+- Tecnologia em **ADS** — Anhembi Morumbi (concluído)
+- Bacharelado em **Computer Science** — University of the People (em andamento)
+- Idiomas: PT nativo · EN C1 · ES intermediário
+
+---
+
+## O que me interessa
+
+Sistemas multi-tenant com isolamento real, agentes de IA com governança (não só demos), front-end ensinado como produto — e projetos de alunos que viram TCC ou publicação.
+
+Aberta a colaborações em engenharia, educação em tecnologia e produtos com impacto operacional.
+
+---
+
+<sub>Perfil alinhado ao CV 2026 · Atualizado ago/2026</sub>
