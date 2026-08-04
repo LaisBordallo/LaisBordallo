@@ -5,7 +5,7 @@
 Construo sistemas enterprise e SaaS multi-tenant — e ensino a mesma engenharia na prática.
 
 📍 Saquarema, RJ · Brasil (UTC−3)  
-✉️ [laisbordallo@outlook.com](mailto:laisbordallo@outlook.com) · 💼 [LinkedIn](https://www.linkedin.com/in/laispinheiro)
+✉️ [lais@bordallotech.com.br](mailto:lais@bordallotech.com.br) · 💼 [LinkedIn](https://www.linkedin.com/in/laispinheiro)
 
 ---
 
